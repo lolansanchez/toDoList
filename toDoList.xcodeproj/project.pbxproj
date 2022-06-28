@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		77966363286B6EDD00EEFECC /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77966362286B6EDD00EEFECC /* AddToDoViewController.swift */; };
 		77CBACE4286A3EC000F8CA7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CBACE3286A3EC000F8CA7E /* AppDelegate.swift */; };
 		77CBACE6286A3EC000F8CA7E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CBACE5286A3EC000F8CA7E /* SceneDelegate.swift */; };
 		77CBACEB286A3EC000F8CA7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77CBACE9286A3EC000F8CA7E /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		77966362286B6EDD00EEFECC /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
 		77CBACE0286A3EC000F8CA7E /* toDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = toDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77CBACE3286A3EC000F8CA7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77CBACE5286A3EC000F8CA7E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				77CBACE3286A3EC000F8CA7E /* AppDelegate.swift */,
 				77CBACE5286A3EC000F8CA7E /* SceneDelegate.swift */,
 				77CBACE9286A3EC000F8CA7E /* Main.storyboard */,
+				77966362286B6EDD00EEFECC /* AddToDoViewController.swift */,
 				77CBAD18286A429300F8CA7E /* ToDo.swift */,
 				77CBAD16286A422F00F8CA7E /* ToDoTableViewController.swift */,
 				77CBACEF286A3EC100F8CA7E /* Assets.xcassets */,
@@ -268,6 +271,7 @@
 				77CBAD19286A429300F8CA7E /* ToDo.swift in Sources */,
 				77CBAD17286A422F00F8CA7E /* ToDoTableViewController.swift in Sources */,
 				77CBACE6286A3EC000F8CA7E /* SceneDelegate.swift in Sources */,
+				77966363286B6EDD00EEFECC /* AddToDoViewController.swift in Sources */,
 				77CBACEE286A3EC000F8CA7E /* toDoList.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
